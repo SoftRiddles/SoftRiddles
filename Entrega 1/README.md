@@ -53,13 +53,13 @@ El trabajo se organizó en roles definidos y se fomentaron competencias clave co
 
 En el repositorio puedes consultar la documentación completa:
 
--  [Descripción del Producto](./Entrega%201/Descripción%20del%20producto.pdf)  
--  [Documento de Requerimientos](./Entrega%201/Requerimientos/Documento%20de%20requerimientos.pdf)  
--  [Diagrama de Caso de Uso](./Entrega%201/Requerimientos/caso%20de%20uso.png)  
--  [Descripción del Proceso](./Entrega%201/docs/Proceso/Descripción-del-Proceso.md)  
--  [Gestión del Proceso](./Entrega%201/docs/Proceso/Gestión-del-Proceso.md)  
--  [Métricas](./Entrega%201/docs/Proceso/metricas.md)  
--  [Competencias](./Entrega%201/Competencias/Competencias.pdf)  
+-  [Descripción del Producto](./Entrega%1/Descripción%20del%20producto.pdf)  
+-  [Documento de Requerimientos](./Entrega%1/Requerimientos/Documento%20de%20requerimientos.pdf)  
+-  [Diagrama de Caso de Uso](./Entrega%1/Requerimientos/caso%20de%20uso.png)  
+-  [Descripción del Proceso](./Entrega%1/docs/Proceso/Descripción-del-Proceso.md)  
+-  [Gestión del Proceso](./Entrega%1/docs/Proceso/Gestión-del-Proceso.md)  
+-  [Métricas](./Entrega%1/docs/Proceso/metricas.md)  
+-  [Competencias](./Entrega%1/Competencias/Competencias.pdf)  
 
 ---
 
