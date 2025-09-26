@@ -23,13 +23,14 @@
 | Priorización                        | Saúl Rodriguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
 | Artefactos                          | Saúl Rodriguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
 
-#### Requisitos
+## Requisitos
 
-| Elemento                 | Descripción                                                  | Responsable(s)                   |
-|--------------------------|--------------------------------------------------------------|----------------------------------|
-| Requisitos funcionales   | Lista de funcionalidades que el producto debe cumplir.       | *(Por asignar)*                  |
-| Priorización             | Orden de importancia o implementación de los requisitos.     | *(Por asignar)*                  |
-| Artefactos               | Documentos o elementos generados durante el análisis.         | Saúl Rodriguez                  |
+| Elemento                   | Descripción                                                        | Responsable(s)     |
+|----------------------------|--------------------------------------------------------------------|--------------------|
+| Requisitos funcionales     | Lista de funcionalidades que el producto debe cumplir.             | *(Por asignar)*    |
+| Requisitos no funcionales  | Condiciones de calidad como rendimiento, seguridad, usabilidad, etc.| *(Por asignar)*    |
+| Priorización               | Orden de importancia o implementación de los requisitos.           | *(Por asignar)*    |
+| Artefactos                 | Documentos o elementos generados durante el análisis.              | *(Por asignar)*    |
 
 
 #### Proceso
