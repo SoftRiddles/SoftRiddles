@@ -2,7 +2,7 @@
 
 ### Definición del Producto
 
-| Actividades                                                                 | Integrante Responsable                                                                 |
+| Actividades                                                                 | Integrante(s) Responsable(s)                                                                 |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Identificar problemáticas en nuestro entorno                               | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala     |
 | Proponer ideas de productos que ayuden o resuelvan la problemática         | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala     |
@@ -14,7 +14,7 @@
 
 #### Producto
 
-| Elemento                             | Responsable                                                                  |
+| Elemento                             | Integrante(s) Responsable(s)                                                                   |
 |-------------------------------------|-------------------------------------------------------------------------------|
 | Descripción del producto            | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
 | Perfil del usuario                  | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
@@ -25,11 +25,16 @@
 
 #### Requisitos
 
-(Sin responsables específicos indicados)
+| Elemento                 | Descripción                                                  | Responsable(s)                   |
+|--------------------------|--------------------------------------------------------------|----------------------------------|
+| Requisitos funcionales   | Lista de funcionalidades que el producto debe cumplir.       | *(Por asignar)*                  |
+| Priorización             | Orden de importancia o implementación de los requisitos.     | *(Por asignar)*                  |
+| Artefactos               | Documentos o elementos generados durante el análisis.         | *(Por asignar)*                  |
+
 
 #### Proceso
 
-| Elemento                             | Responsable      |
+| Elemento                             | Responsable(s)      |
 |-------------------------------------|------------------|
 | Descripción del proceso             | Jennifer Lopez   |
 | Gestión del proceso                 | Jennifer Lopez   |
@@ -38,7 +43,7 @@
 
 #### Competencias
 
-| Tipo                    | Elemento                        |
-|-------------------------|----------------------------------|
-| Competencias genéricas  | Competencias genéricas          |
-| Competencias específicas| Competencias específicas        |
+| Tipo                    | Elemento                        |    Responsable(s)   |   
+|-------------------------|----------------------------------|--------------------|
+| Competencias genéricas  | Competencias genéricas          |*(Por asignar)*      |
+| Competencias específicas| Competencias específicas        |*(Por asignar)*      |
