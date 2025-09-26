@@ -27,10 +27,10 @@
 
 | Elemento                   | Descripción                                                        | Responsable(s)     |
 |----------------------------|--------------------------------------------------------------------|--------------------|
-| Requisitos funcionales     | Lista de funcionalidades que el producto debe cumplir.             | *(Por asignar)*    |
-| Requisitos no funcionales  | Condiciones de calidad como rendimiento, seguridad, usabilidad, etc.| *(Por asignar)*    |
-| Priorización               | Orden de importancia o implementación de los requisitos.           | *(Por asignar)*    |
-| Artefactos                 | Documentos o elementos generados durante el análisis.              | *(Por asignar)*    |
+| Requisitos funcionales     | Lista de funcionalidades que el producto debe cumplir.             | Angel Mendez    |
+| Requisitos no funcionales  | Condiciones de calidad como rendimiento, seguridad, usabilidad, etc.| Angel Mendez    |
+| Priorización               | Orden de importancia o implementación de los requisitos.           | Angel Mendez    |
+| Artefactos                 | Documentos o elementos generados durante el análisis.              | Saúl Rodríguez    |
 
 
 #### Proceso
@@ -46,5 +46,5 @@
 
 | Tipo                    | Elemento                        |    Responsable(s)   |   
 |-------------------------|----------------------------------|--------------------|
-| Competencias genéricas  | Competencias genéricas          |*(Por asignar)*      |
-| Competencias específicas| Competencias específicas        |*(Por asignar)*      |
+| Competencias genéricas  | Competencias genéricas          |Axel Meza      |
+| Competencias específicas| Competencias específicas        |Axel Meza     |
