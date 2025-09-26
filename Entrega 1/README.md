@@ -1,4 +1,4 @@
-#SoftRiddles: Ingeniería de Software Interactiva
+# SoftRiddles: Ingeniería de Software Interactiva
 
 Una plataforma web que transforma el estudio en un desafío.  
 Aprende los conceptos clave de **Fundamentos de Ingeniería de Software** resolviendo acertijos.
