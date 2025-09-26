@@ -16,12 +16,12 @@
 
 | Elemento                             | Integrante(s) Responsable(s)                                                                   |
 |-------------------------------------|-------------------------------------------------------------------------------|
-| Descripción del producto            | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
-| Perfil del usuario                  | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
-| Propuesta de valor                  | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
-| Requisitos funcionales              | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
-| Priorización                        | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
-| Artefactos                          | Saúl Rodríguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
+| Descripción del producto            | Saúl Rodriguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
+| Perfil del usuario                  | Saúl Rodriguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
+| Propuesta de valor                  | Saúl Rodriguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
+| Requisitos funcionales              | Saúl Rodriguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
+| Priorización                        | Saúl Rodriguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
+| Artefactos                          | Saúl Rodriguez, Jennifer Lopez, Salomon Balam, Axel Meza, Angel Mendez, Luis Zavala |
 
 #### Requisitos
 
@@ -29,7 +29,7 @@
 |--------------------------|--------------------------------------------------------------|----------------------------------|
 | Requisitos funcionales   | Lista de funcionalidades que el producto debe cumplir.       | *(Por asignar)*                  |
 | Priorización             | Orden de importancia o implementación de los requisitos.     | *(Por asignar)*                  |
-| Artefactos               | Documentos o elementos generados durante el análisis.         | *(Por asignar)*                  |
+| Artefactos               | Documentos o elementos generados durante el análisis.         | Saúl Rodriguez                  |
 
 
 #### Proceso
