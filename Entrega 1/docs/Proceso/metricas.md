@@ -40,7 +40,7 @@
 | Descripción del proceso             | Jennifer Lopez   |
 | Gestión del proceso                 | Jennifer Lopez   |
 | Métrica de contribución individual  |                  |
-| Organización y documentación del repositorio |         |
+| Organización y documentación del repositorio |    Salomon Balam     |
 
 #### Competencias
 
