@@ -59,7 +59,6 @@ En el repositorio puedes consultar la documentación completa:
 -  [Descripción del Proceso](https://github.com/DevFunCoding/SoftRiddles/tree/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Proceso)  
 -  [Gestión del Proceso](https://github.com/DevFunCoding/SoftRiddles/blob/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Proceso/Gesti%C3%B3n-del-Proceso.md) 
 -  [Métricas](https://github.com/DevFunCoding/SoftRiddles/blob/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Proceso/metricas.md)
--  [Video Presentación](
 -  [Competencias](https://github.com/DevFunCoding/SoftRiddles/blob/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Competencias/Competencias.pdf)
 ---
 
