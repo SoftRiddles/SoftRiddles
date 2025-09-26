@@ -12,7 +12,7 @@ Buscamos facilitar la comprensión y memorización de temas fundamentales a trav
 
 ---
 
-##Características Clave
+## Características Clave
 
 La plataforma está diseñada para ser intuitiva y funcional, ofreciendo una experiencia personalizada y segura para los usuarios.
 
