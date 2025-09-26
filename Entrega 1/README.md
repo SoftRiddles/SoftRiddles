@@ -53,14 +53,13 @@ El trabajo se organizó en roles definidos y se fomentaron competencias clave co
 
 En el repositorio puedes consultar la documentación completa:
 
--  [Descripción del Producto](https://github.com/DevFunCoding/SoftRiddles/tree/031343ad78e92fa6629cd75f5f39db2d6c0d00af/Entrega%201/Producto)
--  [Documento de Requerimientos](./Requerimientos/Documento%20de%20requerimientos.pdf)  
--  [Diagrama de Caso de Uso](./Requerimientos/caso%20de%20uso.png)  
--  [Descripción del Proceso](./docs/Proceso/Descripción-del-Proceso.md)  
--  [Gestión del Proceso](./docs/Proceso/Gestión-del-Proceso.md)  
--  [Métricas](./docs/Proceso/metricas.md)  
--  [Competencias](./Competencias/Competencias.pdf)  
-
+-  [Descripción del Producto](https://github.com/DevFunCoding/SoftRiddles/tree/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Producto)
+-  [Documento de Requerimientos](https://github.com/DevFunCoding/SoftRiddles/tree/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Requerimientos)  
+-  [Diagrama de Caso de Uso](https://github.com/DevFunCoding/SoftRiddles/blob/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Requerimientos/caso%20de%20uso.png)  
+-  [Descripción del Proceso](https://github.com/DevFunCoding/SoftRiddles/tree/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Proceso)  
+-  [Gestión del Proceso](https://github.com/DevFunCoding/SoftRiddles/blob/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Proceso/Gesti%C3%B3n-del-Proceso.md) 
+-  [Métricas](https://github.com/DevFunCoding/SoftRiddles/blob/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Proceso/metricas.md)  
+-  [Competencias](https://github.com/DevFunCoding/SoftRiddles/blob/31338bfaac7ccbf31bf23cf720dcb2e431b109c8/Entrega%201/Competencias/Competencias.pdf)
 ---
 
 ##  Equipo de Desarrollo
