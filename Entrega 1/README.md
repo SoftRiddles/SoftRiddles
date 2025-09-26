@@ -53,7 +53,7 @@ El trabajo se organizó en roles definidos y se fomentaron competencias clave co
 
 En el repositorio puedes consultar la documentación completa:
 
--  [Descripción del Producto](./docs/Descripcion-del-producto.pdf)  
+-  [Descripción del Producto](https://github.com/DevFunCoding/SoftRiddles/tree/031343ad78e92fa6629cd75f5f39db2d6c0d00af/Entrega%201/Producto)
 -  [Documento de Requerimientos](./Requerimientos/Documento%20de%20requerimientos.pdf)  
 -  [Diagrama de Caso de Uso](./Requerimientos/caso%20de%20uso.png)  
 -  [Descripción del Proceso](./docs/Proceso/Descripción-del-Proceso.md)  
