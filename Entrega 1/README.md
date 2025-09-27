@@ -69,3 +69,6 @@ En el repositorio puedes consultar la documentación completa:
 - Axel Meza  
 - Angel Mendez  
 - Luis Zavala  
+
+video:
+https://drive.google.com/file/d/1f9x9NQHlMTa7q-ZHpdDWHUE72xFA7DED/view?usp=sharing
