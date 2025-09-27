@@ -71,4 +71,4 @@ En el repositorio puedes consultar la documentación completa:
 - Luis Zavala  
 
 video:
-https://drive.google.com/file/d/1f9x9NQHlMTa7q-ZHpdDWHUE72xFA7DED/view?usp=sharing
+https://drive.google.com/file/d/1cwkW0FZxK6CKFPO12BQ3w-_x0EMYtL68/view?usp=sharing
