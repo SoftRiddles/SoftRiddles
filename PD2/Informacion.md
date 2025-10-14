@@ -1,11 +1,12 @@
 | Participante |Foto |
 | :--- | :--- |
-| Salomon Jessus Balam Chuc | (Salomon) [Salomon.jpge] |
+| Salomon Jessus Balam Chuc | (Salomon) [Salomon.jpeg] |
 | | |
 | | |
 | | |
 | | |
 | | |
+
 
 
 
