@@ -1,0 +1,8 @@
+| Contribución de Integrantes | Documentación de la evolución del producto | Documentación de la evolución de requistos | Evolución del diagrama de casos de uso | Boceto del diseño prealfa de Mark-0 | Verificación de requerimientos | Validación del diseño propuesto | Evolución del proceso | Elaboración de Bitacora | Creación de Backlog | Validación del backlog | Redactar y argumentar las competencias | Participantes de video | Producción del video | Contribucion total |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Angel Said Mendez Baas** | FALSO | VERDADERO | FALSO | FALSO | FALSO | FALSO | VERDADERO | FALSO | FALSO | FALSO | FALSO | VERDADERO | FALSO | FALSO | 16.66% |
+| **Salomon Jesus Balam Chuc** | FALSO | FALSO | FALSO | FALSO | FALSO | VERDADERO | FALSO | FALSO | FALSO | VERDADERO | FALSO | VERDADERO | FALSO | FALSO | 16.66% |
+| **Saúl Emilio Ropdriguez Chay** | FALSO | FALSO | VERDADERO | FALSO | FALSO | FALSO | FALSO | VERDADERO | FALSO | FALSO | FALSO | VERDADERO | FALSO | FALSO | 16.66% |
+| **Axel Alberto Meza Várguez** | VERDADERO | FALSO | FALSO | FALSO | FALSO | FALSO | FALSO | FALSO | FALSO | FALSO | VERDADERO | VERDADERO | FALSO | FALSO | 16.66% |
+| **Jennifer Karina Lopez Ambrosio** | FALSO | FALSO | FALSO | VERDADERO | FALSO | FALSO | FALSO | FALSO | FALSO | FALSO | FALSO | VERDADERO | VERDADERO | FALSO | 16.66% |
+| **Luis Fernando Zavala Chablé** | FALSO | FALSO | FALSO | FALSO | VERDADERO | FALSO | FALSO | FALSO | VERDADERO | FALSO | FALSO | VERDADERO | FALSO | FALSO | 16.66% |
