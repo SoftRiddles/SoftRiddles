@@ -1,4 +1,4 @@
-#Gestión de proceso 
+# Gestión de proceso 
 
 Los artefactos clave que dirigieron el proceso fueron la tabla de contribución individual, la bitácora y el uso de reportes. 
 
