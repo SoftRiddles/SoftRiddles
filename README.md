@@ -67,7 +67,7 @@ Trabajo en equipo, comunicación efectiva, uso de GitHub y documentación técni
 
 ---
 
-### 📂 Estructura de Documentación (Primera Entrega)
+### Estructura de Documentación (Primera Entrega)
 
 - `README.md` — Vista general del proyecto.  
 - `Descripcion-del-producto.pdf` — Qué, por qué y para quién.  
@@ -110,7 +110,7 @@ Contraseña: Admin123!
 
 ---
 
-### 🚀 Características Clave Implementadas (Frontend)
+### Características Clave Implementadas (Frontend)
 
 - **Autenticación:** Registro y Login con validación.  
 - **Juego de Quizzes:**  
@@ -149,7 +149,7 @@ Diagrama de Casos de Uso (v2) con:
 
 ---
 
-### 🧭 Proceso y Metodología (Scrum)
+### Proceso y Metodología (Scrum)
 
 **Metodología:**  
 Adopción formal de **Scrum**, con roles definidos (Product Owner, Scrum Master).
