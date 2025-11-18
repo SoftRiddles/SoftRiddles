@@ -24,7 +24,6 @@ Link para ver funcionamiento de pagina: https://sublimartweb.com/383bdc230a9b986
 * [Seguridad y buenas prácticas](#seguridad-y-buenas-prácticas)
 * [Despliegue](#despliegue)
 * [Pruebas](#pruebas)
-* [Contribuir](#contribuir)
 * [Licencia y contacto](#licencia-y-contacto)
 
 ---
@@ -87,11 +86,10 @@ SoftRiddles proporciona un entorno interactivo para que estudiantes practiquen y
 / (raíz del repo)
 ├─ public/
 │  ├─ index.html
-│  ├─ assets/
-│  │  ├─ css/
-│  │  └─ js/
+│  │ ─ css/
+|  |       └─ Style.css
+│  │ - js/
 │  │     └─ App_con_API.js
-│  └─ uploads/ (pdfs por unidad)
 ├─ api/
 │  ├─ admin_get_users.php
 │  ├─ admin_update_role.php
@@ -115,6 +113,9 @@ SoftRiddles proporciona un entorno interactivo para que estudiantes practiquen y
 │  ├─ update_my_name.php
 │  ├─ update_my_password.php
 │  └─ update_riddle.php
+|  └─Material
+|     └─Unidad1
+|     └─Unidad2
 ├─ vendor/ (composer)
 ├─ sql/ (scripts de creación de tablas)
 └─ README.md
@@ -367,17 +368,6 @@ CREATE TABLE PasswordResets (
 
 * Tests manuales: crear usuarios, probar flujo completo de registro/login, recuperación, generación IA (primario y fallback), CRUD admin.
 * Logs: registrar errores de llamadas externas (Python API, Gemini) para depuración.
-
----
-
-## Contribuir
-
-1. Haz un *fork* del proyecto.
-2. Crea una rama: `feature/mi-cambio`.
-3. Haz *commit* y *push*.
-4. Abre un *pull request* explicando los cambios.
-
-Por favor sigue el estilo de código y añade migraciones SQL para cambios en tablas.
 
 ---
 
