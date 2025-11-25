@@ -1,7 +1,5 @@
 # SoftRiddles: Acertijos de Ingeniería de Software
 
-Link para ver funcionamiento de pagina: https://sublimartweb.com/383bdc230a9b986db93f3465bceac9aa4b6e9bdf7ff44357462cbd107e51a6f3/SoftRiddles/
-
 ## 📌 Tabla de contenidos
 
 * [Descripción](#descripción)
