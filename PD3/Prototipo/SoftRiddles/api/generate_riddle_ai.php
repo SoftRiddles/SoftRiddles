@@ -28,7 +28,7 @@ if (!isset($_SESSION['user_id'])) {
 }
 
 // PASO 3: Configuración de IA y Directorios
-$apiKey = 'AIzaSyB-5a2HLI7fSasGLu6RtRcy35AEMrR8SLQ'; // <--- ¡¡¡REEMPLAZA ESTO!!!
+$apiKey = 'GEMINI_KEY'; // <--- ¡¡¡REEMPLAZA ESTO!!!
 $geminiApiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=' . $apiKey;
 
 $unit = $_GET['unit'] ?? '1';
