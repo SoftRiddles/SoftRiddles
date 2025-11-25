@@ -199,6 +199,5 @@ SoftRiddles versión RC cuenta con:
 - Pruebas registradas  
 - Repositorio organizado por entregas  
 - Correcciones conceptuales y técnicas  
-- Base sólida para **Etapa 4: Release Final**
 
 ---
