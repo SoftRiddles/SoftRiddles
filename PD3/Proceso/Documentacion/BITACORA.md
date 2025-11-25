@@ -73,30 +73,28 @@ Tras finalizar los pocos pendientes que quedaban con el video nos enfocamos en r
 
 
 TERCERA ENTREGA
--Miércoles 5/11/2025
+Miércoles 5/11/2025
 El equipo realizó una sesión en teams para corregir y añadir la información correspondiente a la documentación.
 Se creó el Branch: Entrega 3
 El líder de equipo llamó a los integrantes a examinar cada documentación a cargo de cada uno y nos ayudó a corregir la información redundante, eliminar la info. Que ya no se requiere y añadir las nuevas modificaciones correspondientes a la nueva entrega
 Se modificaron por última vez los requisitos según las señalizaciones del maestro y del líder de equipo con apoyo grupal discutiendo nuevamente el objetivo y necesidad que cubre cada requisito examinando y reordenando sus prioridades, así como correcciones y mayores especificaciones para evitar ambigüedades 
 El líder de equipo nos planteó un horario a seguir las semanas siguientes para tener listo el proyecto para la última entrega.
-Una vez terminamos las correcciones necesarias empezamos a actualizar la documentación en el repositorio En la nueva Branch
-
--Lunes 10/11/2025
-Tuvimos una reunión en teams donde trabajamos y realizamos un diagrama de Gantt, un diagrama de Entidad-relación
-
--Martes 11/11/2025
+Una vez terminamos las correcciones necesarias empezamos a actualizar la documentación en el repositorio. En la nueva Branch
+Lunes 10/11/2025
+Tuvimos una reunión en teams donde trabajamos y realizamos un diagrama de Gantt, un diagrama de 
+Martes 11/11/2025
 Hoy dividimos las tareas en parejas para resolver en esta sesión para agilizar más las cosas y evitar seguir atrasándonos 
 Martes 11 de noviembre
  Documento: Evolución de Requerimientos
- El documento anterior no contenía la especificación de los requerimientos y tenía vacíos respecto a los detalles de los no funcionales. Los cambios fueron: ● Escritura de las especificaciones para cada requerimiento (funcional y no funcional). ● Se agregaron 2 requerimientos no funcionales. ○ Se añadieron detalles acerca de los ejercicios y características visuales que le serían útiles al usuario. ○ Se añadieron detalles sobre la localización de cada “secciones” a la que el usuario podría acceder y las “secciones” especiales dónde solo los administradores pueden ver y acceder. En resumen, los cambios respecto a los requisitos estuvieron centrados en la mejora y en la ampliación de detalles de los que carecía la anterior versión.
-
--Viernes 14 de noviembre 
+ El documento anterior no contenía la especificación de los requerimientos y tenía vacíos respecto a los detalles de los no funcionales. Los cambios fueron: ● Escritura de las especificaciones para cada requerimiento (funcional y no funcional). ● Se agregaron 2 requerimientos no funcionales. ○ Se añadieron detalles acerca de los ejercicios y características visuales que le serían útiles al usuario. ○ Se añadieron detalles sobre la localización de cada “secciones” a la que el usuario podría acceder y las “secciones” especiales dónde solo los administradores pueden ver y acceder. En resumen, los cambios respecto a los requisitos estuvieron centrados en la mejora y en la ampliación de detalles de los que carecía la anterior versión. 
+Viernes 14 de noviembre 
 Documento: Formato de Pruebas Informales
  Se realizó un formato para realizar las pruebas, teniendo la descripción, el objetivo y posibles tareas para que los usuarios cumplan.
 Se actualizo la documentación necesaria y se está empezando la redacción de la crítica constructiva al curso.
-
--Sábado 15/11/2025
+Sábado 15/11/2025
 Se finalizó la crítica constructiva 
-
--Lunes 17/11/2025
+Lunes 17/11/2025
 Se finalizó la versión 2 de la web y se inicializó la etapa de pruebas 
+
+Lunes 24/11/2025
+Las pruebas han finalizado, se registraron los tiempos y se encuestó la satisfacción del usuario
