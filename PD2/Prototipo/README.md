@@ -1,4 +1,5 @@
 # SoftRiddles: Acertijos de Ingeniería de Software
+Link para ver funcionamiento de pagina: https://sublimartweb.com/383bdc230a9b986db93f3465bceac9aa4b6e9bdf7ff44357462cbd107e51a6f3/Tarea/
 
 SoftRiddles es un prototipo de aplicación web diseñado para ayudar a los estudiantes de **Fundamentos de Ingeniería de Software** a dominar los conceptos clave de las Unidades I y II a través de **acertijos interactivos**. Este prototipo se centra en una **fidelidad media-alta** de diseño (Wireframe + UI básico) y funcionalidad base para la gestión de usuarios, resolución de acertijos y un panel administrativo.
 
