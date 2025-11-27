@@ -1,4 +1,4 @@
-# Hoja1
+# Métrica de Contribución
 
 |Contribución de los integrantes|Recabar info. de usuarios y perfilarlos|Reordenar y redefinir requisitos|Confirmar listado final y cobertura|Rediseñar diagrama de casos de uso|Diseñar prueba, encuesta y protocolo|Vericar correspondencia indicadores-objetivos|Aplicar prueba a usuarios primarios|Redactar argumentación de innovación|Documento de rastreo y vericación|Analizar resultados y mejoras|Versión final de interfaz + resumen de cambios|Métrica de contribución individual|Crítica constructiva al curso|Producción  del Video|Reevaluar documentación y resumir cambios|Vericar completitud de artefactos|Elaborar prototipos (baja/media fidelidad)|Vericar correspondencia prototipo-requisitos|Denition of Done (DoD)|Resumen de cambios por entrega|Redactar competencias y vericar correspondencia|Participantes en el video|Contribución total|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
