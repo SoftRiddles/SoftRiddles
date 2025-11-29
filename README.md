@@ -1,5 +1,5 @@
 # 🧩 SoftRiddles — Update Log Oficial
-
+<b>NEW</b> Etapa 3 video: https://drive.google.com/file/d/1sl3eN2ynLfKbdT_mxQ3cDq8XIQT00cn6/view?usp=sharing
 ---
 
 ## 🚧 Etapa 1: Versión Alpha (v0.1.0)  
