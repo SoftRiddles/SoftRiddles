@@ -1,5 +1,5 @@
 # Diagrama de gatt: https://sharing.clickup.com/9017329136/g/h/6-901706474207-7/b70ca40b5e8af94
-# Link para ver funcionamiento de pagina: https://sublimartweb.com/383bdc230a9b986db93f3465bceac9aa4b6e9bdf7ff44357462cbd107e51a6f3/SoftRiddles/
+# Link para ver funcionamiento de pagina: [SOFTRRIDLES/](https://softriddles.sublimartweb.com/)
 
 
 #  Índice principal del repositorio — **SoftRiddles**
@@ -64,3 +64,4 @@ Incluye:
 | Angel Said Mendez Baas   | ![Angel](Fotos/Angel.jpg)         |
 | Luis Fernando Zavala Chablé | ![Luis](Fotos/Luis.jpg) |
 | Axel Alberto Meza Várguez | ![Axel](Fotos/Axel.jpg) |
+
